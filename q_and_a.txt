@@ -1,0 +1,3 @@
+        question: What is the name of the championship series in Major League Baseball?:
+        choices: a. The Super Bowl b. The World Series c. The NBA Finals d. The Stanley Cup
+        answer: b
