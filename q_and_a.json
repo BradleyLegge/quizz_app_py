@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the name of Harry Potter's pet owl?",
+        "choices": "a. Errol b. Hedwig c. Scabbers d. Crookshanks",
+        "answer": "b"
+    },
+    {
+        "question": "What school does Harry Potter attend?",
+        "choices": "a. Beauxbatons b. Durmstrang c. Hogwarts d. Ilvermorny",
+        "answer": "c"
+    },
+    {
+        "question": "What is the name of the magical sport played on broomsticks?",
+        "choices": "a. Bludger b. Quidditch c. Quaffle d. Snitch",
+        "answer": "b"
+    },
+    {
+        "question": "What magical creature guarded the Philosopher's Stone?",
+        "choices": "a. Basilisk b. Phoneix c. Dragon d. Three-headed dog",
+        "answer": "d"
+    },
+    {
+        "question": "Which Hogwarts professor teaches Divination?",
+        "choices": "a. Professor McGonagall b. Professor Sprout c. Professor Snape d. Professor Trelawney",
+        "answer": "d"
+    },
+    {
+        "question": "What magical object can be used to travel between two places?",
+        "choices": "a. Apparition b. Portkey c. Time-Turner d. Vanishing Cabinet",
+        "answer": "b"
+    },
+    {
+        "question": "To which Hogwarts house does Draco Malfoy belong?",
+        "choices": "a. Gryffindor b. Ravenclaw c. Hufflepuff d. Slytherin",
+        "answer": "d"
+    },
+    {
+        "question": "What magical object can be used to store memories?",
+        "choices": "a. Mirror of Erised b. Remembrall c. Pensieve d. Time-Turner",
+        "answer": "c"
+    },
+    {
+        "question": "What is the name of the Hogwarts caretaker?",
+        "choices": "a. Albus Dumbledore b. Argus Filch c. Rubeus Hagrid d. Severus Snape",
+        "answer": "b"
+    },
+    {
+        "question": "What magical creature can be only seen by people who witnessed death?",
+        "choices": "a. Thestral b. Phoneix c. Hippogriff d. Owl",
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following characters is not a member of the Order of the Phoneix",
+        "choices": "a. Lucius Malfoy b. Alastor Moody c. Remus Lupin d. Sirius Black",
+        "answer": "a"
+    },
+    {
+        "question": "What is the name of the wizard prison?",
+        "choices": "a. Gringotts b. Azkaban  c. Diagon Alley d. Hogwarts",
+        "answer": "b"
+    },
+    {
+        "question": "Who kills Nagini, Voldemort's snake and final Horcrux?",
+        "choices": "a. Harry Potter b. Neville Longbottom c. Hermione Granger d. Severus Snape",
+        "answer": "b"
+    },
+    {
+        "question": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts Bank?",
+        "choices": "a. Bogrod b. Dobby c. Gornuk d. Griphook",
+        "answer": "d"
+    },
+    {
+        "question": "What potion allows the drinker to assume the form of another person?",
+        "choices": "a. Amortentia b. Felix Felicis c. Elixir of Life d. Polyjuice Potion",
+        "answer": "d"
+    },
+    {
+        "question": "What magical creature can be only seen by people who witnessed death?",
+        "choices": "a. Thestral b. Phoneix c. Hippogriff d. Owl",
+        "answer": "a"
+    }
+]
